@@ -37,13 +37,11 @@ import { ref } from "vue" // you need this to use ref()
 	</div>
 </template>
 
-<button id="img-btn">Display Image</button>
-
 
 <!-- style is where the css code goes -->
 <style scoped>
 	html {
-			background-color: aqua;
+			background-color: rgb(28, 104, 9);
 		}
 		
 		body {
@@ -72,7 +70,7 @@ import { ref } from "vue" // you need this to use ref()
 		
 		#main {
 			width: 70%;
-			background-color: green;
+			background-image: ("Animationn.gif");
 		}
 		
 		#title {
